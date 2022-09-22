@@ -1,0 +1,47 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+
+body {
+    background: url(Background.png) repeat center;
+	background-attachment: fixed;
+	background-color: white;
+    background-size: cover;
+}
+
+.main {
+    width: 100%;
+    height: auto;
+    text-align: center;
+    margin-top: 40vh;
+}
+
+.main input {
+    margin: 0 auto;
+    height: 50px;
+    width: 400px;
+    text-align: center;
+    font-size: 40px;
+}
+
+.main .out {
+    padding-top: 10px;
+    text-shadow: 1px 0 1px #000, 
+    0 1px 1px #000, 
+    -1px 0 1px #000, 
+    0 -1px 1px #000;
+    color: white;
+    margin: 0 auto;
+    height: 50px;
+    font-size: 40px;
+}
+
+.main button {
+height: 50px;
+width: 400px;
+margin: 0 auto;
+text-align: center;
+font-size: 40px;
+}
