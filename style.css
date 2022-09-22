@@ -1,0 +1,38 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+
+body {
+	background-color: white;
+}
+
+.main {
+    width: 100%;
+    text-align: center;
+    margin-top: 40vh;
+}
+
+.main input {
+    margin: 0 auto;
+    height: 50px;
+    width: 200px;
+    text-align: center;
+    font-size: 40px;
+}
+
+.main .out {
+    margin: 0 auto;
+    height: 50px;
+    font-size: 40px;
+}
+
+.main button {
+height: 50px;
+width: 200px;
+display: flex;
+margin: 0 auto;
+text-align: center;
+font-size: 40px;
+}
