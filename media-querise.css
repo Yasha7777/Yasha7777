@@ -1,0 +1,28 @@
+@media only screen and (max-width: 500px) {
+
+    .input_information {
+        border-radius: 0px;
+    }
+
+    .input_information_center {
+        width: auto;
+    }
+
+    .input {
+        width: 100%;
+        border-radius: 0px;
+    }
+
+    .output {
+        width: 100%;
+        border-radius: 0px;
+    }
+
+    .confirm_button_form {
+        border-radius: 0px;
+        }
+
+    #confirm_button_id {
+        width: 100%;
+        }
+}
